@@ -450,14 +450,17 @@ footer{
     .sec7, .sec7-1{
         width: 100%;
         height: 400px;
-        margin-top: 40px;
+       
+    }
+    .sec7{
+        margin-top: 150px;
     }
     .footer{
         width: 90%;
         margin: 0 auto;
         
     }
-    .sec4{
+     .sec4{
         position: relative;
         bottom: 200px;
     }
